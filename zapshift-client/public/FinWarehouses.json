@@ -1,0 +1,102 @@
+[
+  {
+    "region": "Uusimaa",
+    "district": "Helsinki",
+    "city": "Helsinki",
+    "covered_area": ["Pasila", "Kamppi", "Kallio", "Vuosaari"],
+    "status": "active",
+    "flowchart": "https://example.com/helsinki-flowchart.png",
+    "longitude": 24.9384,
+    "latitude": 60.1699
+  },
+  {
+    "region": "Uusimaa",
+    "district": "Espoo",
+    "city": "Espoo",
+    "covered_area": ["Leppävaara", "Tapiola", "Matinkylä"],
+    "status": "active",
+    "flowchart": "https://example.com/espoo-flowchart.png",
+    "longitude": 24.6559,
+    "latitude": 60.2055
+  },
+  {
+    "region": "Uusimaa",
+    "district": "Vantaa",
+    "city": "Vantaa",
+    "covered_area": ["Tikkurila", "Myyrmäki", "Aviapolis"],
+    "status": "active",
+    "flowchart": "https://example.com/vantaa-flowchart.png",
+    "longitude": 25.0402,
+    "latitude": 60.2934
+  },
+  {
+    "region": "Pirkanmaa",
+    "district": "Tampere",
+    "city": "Tampere",
+    "covered_area": ["Kaleva", "Hervanta", "Lielahti"],
+    "status": "active",
+    "flowchart": "https://example.com/tampere-flowchart.png",
+    "longitude": 23.7610,
+    "latitude": 61.4978
+  },
+  {
+    "region": "Southwest Finland",
+    "district": "Turku",
+    "city": "Turku",
+    "covered_area": ["Kupittaa", "Varissuo", "Runosmäki"],
+    "status": "active",
+    "flowchart": "https://example.com/turku-flowchart.png",
+    "longitude": 22.2666,
+    "latitude": 60.4518
+  },
+  {
+    "region": "Central Finland",
+    "district": "Jyväskylä",
+    "city": "Jyväskylä",
+    "covered_area": ["Lutakko", "Kypärämäki", "Palokka"],
+    "status": "active",
+    "flowchart": "https://example.com/jyvaskyla-flowchart.png",
+    "longitude": 25.7473,
+    "latitude": 62.2426
+  },
+  {
+    "region": "North Ostrobothnia",
+    "district": "Oulu",
+    "city": "Oulu",
+    "covered_area": ["Kaijonharju", "Limingantulli", "Tuira"],
+    "status": "active",
+    "flowchart": "https://example.com/oulu-flowchart.png",
+    "longitude": 25.4651,
+    "latitude": 65.0121
+  },
+  {
+    "region": "Satakunta",
+    "district": "Pori",
+    "city": "Pori",
+    "covered_area": ["Keskusta", "Isosanta", "Vähärauma"],
+    "status": "active",
+    "flowchart": "https://example.com/pori-flowchart.png",
+    "longitude": 21.7975,
+    "latitude": 61.4850
+  },
+  {
+    "region": "Lapland",
+    "district": "Rovaniemi",
+    "city": "Rovaniemi",
+    "covered_area": ["Ounasvaara", "Korkalovaara", "Santa Claus Village"],
+    "status": "active",
+    "flowchart": "https://example.com/rovaniemi-flowchart.png",
+    "longitude": 25.7294,
+    "latitude": 66.5039
+  },
+  {
+    "region": "South Karelia",
+    "district": "Lappeenranta",
+    "city": "Lappeenranta",
+    "covered_area": ["Lauritsala", "Skinnarila", "Keskusta"],
+    "status": "active",
+    "flowchart": "https://example.com/lappeenranta-flowchart.png",
+    "longitude": 28.1887,
+    "latitude": 61.0583
+  }
+]
